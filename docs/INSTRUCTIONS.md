@@ -76,9 +76,9 @@ Na de talk:
 ## Criteria
 *Definitions of done*
 
-Gedragscriteria:
-(P) Je schetst om gedachten en processen te verkennen. 
-(L) Maakt aangeboden materie eigen en gebruikt dit bij leertaken.
+Gedragscriteria:  
+(P) Je schetst om gedachten en processen te verkennen.  
+(L) Maakt aangeboden materie eigen en gebruikt dit bij leertaken.  
 
 De sketchnote is *done* als
 
