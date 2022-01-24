@@ -74,9 +74,8 @@ Na de talk:
 
 
 ## Criteria
-*Definitions of done*
 
-Gedragscriteria:  
+Deze leertaak hoort bij de gedragscriteria:
 (P) Je schetst om gedachten en processen te verkennen.  
 (L) Maakt aangeboden materie eigen en gebruikt dit bij leertaken.  
 
