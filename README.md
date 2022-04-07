@@ -8,7 +8,6 @@ https://www.youtube.com/watch?v=w-HYZv6HzAs
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
 ![Sketchnotes](https://raw.githubusercontent.com/M4TThys123/fix-the-flow-sketchnote/main/Sketchnote.png)
-![Sketchnotes](https://github.com/M4TThys123/fix-the-flow-sketchnote/blob/main/Sketchnote.png)
 
 ## Licentie
 
